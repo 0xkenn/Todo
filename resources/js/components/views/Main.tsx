@@ -9,7 +9,7 @@ const Main = () => {
                 <div className="w-6/12">
                     <div className="mb-4">
                         <div className="text-4xl font-semibold tracking-wider text-gray-300 mb-1">
-                            Hi 0xkenn
+                            SKIN SENSE TASKS
                         </div>
                         <div className="text-sm tracking-wider leading-5 text-gray-300/50 font-lighter">
                             Welcome to your starting point of Laravel and React
